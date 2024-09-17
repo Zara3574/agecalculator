@@ -1,0 +1,149 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/LibreBaskerville-Bold.ttf",
+      "sha1": "f8081cbeceb2e69fdffca2348b2c9e0933cd52b5"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Italic.ttf",
+      "sha1": "1c4a7eed5b5ffeed2818cc75c16825596d64ab67"
+    },
+    {
+      "path": "assets/fonts/LibreBaskerville-Regular.ttf",
+      "sha1": "ed706d27473a09536d94fed8fee4809fda713759"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Black.ttf",
+      "sha1": "4b48e2639d95a3777f7a1403194b3b3011398805"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-BlackItalic.ttf",
+      "sha1": "72d103efaf096bfe81775eb3d96343f6977778df"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Bold.ttf",
+      "sha1": "680d10b4d2baef171396beeadf62e667af7c6238"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-BoldItalic.ttf",
+      "sha1": "d81f52d26f6af3aac7a26b0370c3da6efda259cf"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-ExtraBold.ttf",
+      "sha1": "690e94edd4fb56866353fca611118a429d79bc47"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-ExtraBoldItalic.ttf",
+      "sha1": "22fa9e027e569ac9909867e57d1b2589ee0a87d2"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-ExtraLight.ttf",
+      "sha1": "9edfe8c0cdda98f4ddddd22bd1d0cbe86c092b8f"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-ExtraLightItalic.ttf",
+      "sha1": "506673012884ff1643b80ee0f200a5c7c5703839"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Italic-VariableFont_wght.ttf",
+      "sha1": "a05809fd393824064cfd8ec4238d826ad75e4f12"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Italic.ttf",
+      "sha1": "181b33e998b99e9a5aec8d89e20bf5ea6ddab145"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Light.ttf",
+      "sha1": "58dfcfb6158d6469e9cf3e1ebccce8da4afdd04b"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-LightItalic.ttf",
+      "sha1": "d9e5175878c10fcce727e227a9ae00233a653b86"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Medium.ttf",
+      "sha1": "43cda50bdffe31f2e460da345eedf54423194317"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-MediumItalic.ttf",
+      "sha1": "1f83893fc847976dca8b98a89aa24d9bc00f4262"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Regular.ttf",
+      "sha1": "a07d7d3291574c0e8a4d675cff73bf30a218be2f"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-SemiBold.ttf",
+      "sha1": "9833e5481bb4559391efeab02279237ad0005fe9"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-SemiBoldItalic.ttf",
+      "sha1": "9b01af87eae33ff6343482806ba91485566d1d39"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-Thin.ttf",
+      "sha1": "f7ce52e36536c1f186fcc6f29694cd96c86afc99"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-ThinItalic.ttf",
+      "sha1": "cd9cd135d3bf55bdfc6ea68c2e4dddce1f818592"
+    },
+    {
+      "path": "assets/fonts/LibreFranklin-VariableFont_wght.ttf",
+      "sha1": "f7c1f4db542a50c1bd73d8ee679271abc59506c7"
+    },
+    {
+      "path": "assets/fonts/Mali-Bold.ttf",
+      "sha1": "1943e5f61e5aed73a55925db23d0d5b641c2a504"
+    },
+    {
+      "path": "assets/fonts/Mali-BoldItalic.ttf",
+      "sha1": "b0e2e3abf591153e714394682f2f2a2bd58ca1b7"
+    },
+    {
+      "path": "assets/fonts/Mali-ExtraLight.ttf",
+      "sha1": "84876daab5c1914b3775274e5e0af268d3ff3547"
+    },
+    {
+      "path": "assets/fonts/Mali-ExtraLightItalic.ttf",
+      "sha1": "d3d8efc33390c992937d79192de061ae5bc23565"
+    },
+    {
+      "path": "assets/fonts/Mali-Italic.ttf",
+      "sha1": "bbd453eb665c9606d1f0fa11ed7f4600899b0555"
+    },
+    {
+      "path": "assets/fonts/Mali-Light.ttf",
+      "sha1": "340f2799d47c1fe84eee321defff07149573ddac"
+    },
+    {
+      "path": "assets/fonts/Mali-LightItalic.ttf",
+      "sha1": "3d5455d860973c0b241caac329826384401a4396"
+    },
+    {
+      "path": "assets/fonts/Mali-Medium.ttf",
+      "sha1": "167c5b9dd18d94b8d4fde98b4adf40c7b01c6e06"
+    },
+    {
+      "path": "assets/fonts/Mali-MediumItalic.ttf",
+      "sha1": "17b5f2f4bbbdd86588df180739f946e0f28be058"
+    },
+    {
+      "path": "assets/fonts/Mali-Regular.ttf",
+      "sha1": "0d69218429954ab53a0cc47ff9d99e9eb28201c4"
+    },
+    {
+      "path": "assets/fonts/Mali-SemiBold.ttf",
+      "sha1": "77238dca28a266a72648f40420d03066a364c049"
+    },
+    {
+      "path": "assets/fonts/Mali-SemiBoldItalic.ttf",
+      "sha1": "fd85e976baa2dae3aef13223af160737cef62e0a"
+    },
+    {
+      "path": "assets/fonts/OFL.txt",
+      "sha1": "3e73adce7e8820ed521c8b3755c52a582d55c008"
+    }
+  ]
+}
